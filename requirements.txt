@@ -1,0 +1,21 @@
+transformers  # Transformer tabanlı modeller için önceden eğitilmiş modeller ve NLP araçları sağlar.
+transformers[sentencepiece]  # SentencePiece ile tokenizasyon kullanan modelleri desteklemek için Transformers kütüphanesini genişletir.
+datasets  # NLP ve diğer makine öğrenimi görevleri için performans odaklı veri kümeleri sunar.
+sacrebleu  # Makine çevirisi performansını BLEU ve diğer metriklerle değerlendirir.
+rouge_score  # Metin özetleme performansını ROUGE metrikleriyle ölçer.
+py7zr  # Python'da 7zip arşiv dosyalarını açma ve oluşturma imkanı sağlar.
+pandas  # Tablo verileri üzerinde veri işleme ve analiz için kullanılır.
+nltk  # Doğal dil işleme görevleri için metin işleme araçları sağlar.
+tqdm  # Döngüler ve veri işlemede ilerleme çubukları ekler.
+PyYAML  # YAML dosyalarını okuma ve yazma işlemlerini sağlar.
+matplotlib  # Statik, animasyonlu ve etkileşimli grafikler oluşturmak için kullanılır.
+torch  # Derin öğrenme modelleri oluşturma ve eğitme için PyTorch kütüphanesi.
+notebook  # Jupyter defterlerini çalıştırma ve görüntüleme desteği sunar.
+boto3  # AWS hizmetleriyle entegrasyon sağlayan AWS SDK’sıdır.
+mypy-boto3-s3  # boto3 S3 etkileşimleri için tür ipuçları ekleyerek tür güvenliğini arttırır.
+python-box==6.0.2  # Nokta notasyonu ile erişim sağlayan, sözlük benzeri veri yapısı sunar.
+ensure==1.0.2  # Tür anotasyonlarını doğrulayarak doğru kullanımı sağlar.
+fastapi==0.78.0  # Hızlı ve modern API geliştirme için bir web framework'ü.
+uvicorn==0.18.3  # FastAPI uygulamalarını çalıştırmak için ASGI sunucusu.
+Jinja2==3.1.2  # Şablonlama motoru, özellikle HTML sayfaları oluşturmak için kullanılır.
+evaluate
